@@ -52,7 +52,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Content Include="Particle_Star.txt" />
+    <Content Include="Particles\Particle_Star.txt" />
     <Compile Include="Particles\Particle_Traingle.cs" />
     <Content Include="Particles\Particle_Square.txt" />
     <Content Include="Particles\Particle_Heart.txt" />
